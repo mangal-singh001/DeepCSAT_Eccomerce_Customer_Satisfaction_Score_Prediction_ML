@@ -166,8 +166,11 @@ This project demonstrates the power of **AI-driven customer experience managemen
 ### 👨‍💻 **Developed By**
 
 **👤 Mangal Singh**
+
 📍 B.Tech – Computer Science & Engineering
+
 🔗 [GitHub Profile](https://github.com/mangal-singh001)
+
 💼 [LinkedIn](https://www.linkedin.com/in/mangal-singh001)
 
 ---
@@ -177,4 +180,4 @@ This project demonstrates the power of **AI-driven customer experience managemen
 If you like this project, please ⭐ the repo and share your feedback!
 Your support helps me grow as a Data Scientist 💪
 
----
+
