@@ -99,8 +99,6 @@ This system empowers the business to identify at-risk customers early and make *
 * **Customer Support Score ⬆️** – Better support → happier customers
 * **Order Accuracy ⬆️** – Fewer errors improve satisfaction
 
-![SHAP Summary](https://github.com/mangal-singh001/DeepCSAT_Eccomerce_Customer_Satisfaction_Score_Prediction_ML/blob/main/images/shap_summary.png)
-
 ---
 
 ### 💾 **Model Saving and Deployment**
