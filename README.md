@@ -1,10 +1,3 @@
-Perfect 🔥 — here’s a **professional, attractive, and SEO-friendly README.md** file you can directly copy-paste into your GitHub repo:
-👉 [DeepCSAT_Ecommerce_Customer_Satisfaction_Score_Prediction_ML](https://github.com/mangal-singh001/DeepCSAT_Eccomerce_Customer_Satisfaction_Score_Prediction_ML)
-
-It includes badges, emojis, sections, visuals, and your GitHub/LinkedIn links — fully optimized for portfolio and recruiters.
-
----
-
 ## 🧠 **DeepCSAT: E-Commerce Customer Satisfaction Score Prediction (ML + DL Project)**
 
 ![Project Banner](https://img.shields.io/badge/Machine%20Learning-Ecommerce-blue?style=for-the-badge)
